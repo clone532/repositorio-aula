@@ -8,3 +8,4 @@ e o repositório no provedor de repositórios.
 
 A PASTA PRECISA ESTAR NA ÁREA DE TRABALHO!!!
 */
+console.log();
